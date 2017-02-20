@@ -1,0 +1,102 @@
+{
+"parent":{
+"cat_id":"7",
+"cat_name":"National Extension College",
+"cat_description":"\u003Cp\u003EIf you study on a course with the NEC, you will receive a pack of course materials and a tutor who will provide you with all of the resources you need to complete the qualification. In the sample course material below you may find links to content that you cannot access from within your prison. Don\u0027t worry about this as you will be able to find all of this information in your resource pack.\u003C\/p\u003E\r\n\r\n\u003Cp\u003E\u0026nbsp;\u003C\/p\u003E\r\n",
+"additional_description":null,
+"cat_banner":""
+},
+"children":[
+{
+"tid":"371",
+"name":"Distance Learning",
+"parent":null,
+"cat_description":null,
+"additional_description":null
+},
+{
+"tid":"8",
+"name":"Art \u0026 Literature",
+"parent":null,
+"cat_description":null,
+"additional_description":null
+},
+{
+"tid":"9",
+"name":"Business \u0026 Economics",
+"parent":null,
+"cat_description":null,
+"additional_description":null
+},
+{
+"tid":"10",
+"name":"Counselling \u0026 Psychology",
+"parent":null,
+"cat_description":null,
+"additional_description":null
+},
+{
+"tid":"11",
+"name":"English",
+"parent":null,
+"cat_description":null,
+"additional_description":null
+},
+{
+"tid":"12",
+"name":"Environmental Studies",
+"parent":null,
+"cat_description":null,
+"additional_description":null
+},
+{
+"tid":"13",
+"name":"Foreign Languages",
+"parent":null,
+"cat_description":null,
+"additional_description":null
+},
+{
+"tid":"14",
+"name":"History",
+"parent":null,
+"cat_description":null,
+"additional_description":null
+},
+{
+"tid":"15",
+"name":"Law \u0026 Politics",
+"parent":null,
+"cat_description":null,
+"additional_description":null
+},
+{
+"tid":"16",
+"name":"Maths",
+"parent":null,
+"cat_description":null,
+"additional_description":null
+},
+{
+"tid":"17",
+"name":"Philosophy",
+"parent":null,
+"cat_description":null,
+"additional_description":null
+},
+{
+"tid":"18",
+"name":"Science",
+"parent":null,
+"cat_description":null,
+"additional_description":null
+},
+{
+"tid":"19",
+"name":"Sociology",
+"parent":null,
+"cat_description":null,
+"additional_description":null
+}
+]
+}

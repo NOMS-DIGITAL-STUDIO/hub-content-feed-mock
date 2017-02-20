@@ -1,0 +1,10 @@
+{
+    "request": {
+        "method": "GET",
+        "url": "/api/hub/116"
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "sub-hub.json"
+    }
+}
