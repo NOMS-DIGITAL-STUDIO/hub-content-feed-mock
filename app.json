@@ -1,0 +1,5 @@
+{
+  "name": "Hub contnet feed mock",
+  "description": "Hub contnet feed mock.",
+  "image": "heroku/java"
+}
