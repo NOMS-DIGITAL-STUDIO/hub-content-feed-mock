@@ -1,7 +1,7 @@
 {
     "request": {
         "method": "GET",
-        "url": "/hub-content-feed/api/pdf/course/7"
+        "url": "/api/pdf/course/7"
     },
     "response": {
         "status": 200,
