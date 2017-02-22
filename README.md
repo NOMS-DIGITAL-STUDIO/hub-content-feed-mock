@@ -4,6 +4,6 @@ This is a small project using [Wiremock](http://wiremock.org/) to simulate the R
 
 The project is automatically deployed to Heroku and started using a Procfile with the following command:
 
-'''
+```
 web: java $JAVA_OPTS -Dserver.port=$PORT -jar wiremock-standalone-2.6.0.jar --port $PORT
-'''
+```
